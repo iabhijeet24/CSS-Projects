@@ -1,0 +1,29 @@
+.flag{
+    height: 700px;
+    width: 100%;
+    position: relative;
+    border: 2px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.orange{
+    height: 100px;
+    width: 400px;
+    background-color: orange;
+}
+
+.white{
+    height: 100px;
+    width:400px;
+    background-color: white;
+}
+
+.green{
+    height: 100px;
+    width: 400px;
+    background-color: green;
+}
